@@ -50,7 +50,7 @@ Here is something to know about me:
 
 - 🔭 I’m pursuing my Ph.D. in Management & International Economics from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
 - 🌱 I’m currently learning Data Science, Python, AI/ML, DL
-- 👯 I’m looking to collaborate on any interdisciplinary work in Social sciences and AI
+- 👯 I’m looking to collaborate on any interdisciplinary research work in Social sciences and AI
 - 📫 How to reach me: mksharma@iitkgp.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love astrology
