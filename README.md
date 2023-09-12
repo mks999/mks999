@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi👋 
 ### Welcome to my Page, Nice to see you here.
 <h1 align="center">I am Manish</h1>
 <div align="center">
