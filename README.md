@@ -1,5 +1,5 @@
-### Hi👋 
-### Welcome to my Page, Nice to see you here.
+### Hi there👋 
+### Welcome to my Page, Nice to see you.
 <h1 align="center">I am Manish</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
