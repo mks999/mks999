@@ -50,9 +50,9 @@
 
 Here is something to know about me:
 
-- 🔭 Currently working as Assistant Professor and about to finsh my Ph.D. in International Economics and Business from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
+- 🔭 Currently working as Assistant Professor and about to finish my Ph.D. in International Economics/Business from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
 - 🌱 I’m currently learning Data Science, Python, AI/ML, DL
-- 👯 I’m looking to collaborate on any interdisciplinary research work in Social sciences and AI
+- 👯 I’m looking to collaborate on any interdisciplinary research work in AI and Economics, Finance
 - 📫 How to reach me: mksharma@iitkgp.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love astrology
