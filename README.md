@@ -11,7 +11,7 @@
 - Natural Language Processing
 - AI and Machine Learning
 - Deep Learning
-- International Economics and Busienss
+- International Economics and Business
 - Finance
 
 
@@ -50,7 +50,7 @@
 
 Here is something to know about me:
 
-- 🔭 I’m pursuing my Ph.D. in Management & International Economics from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
+- 🔭 Currently working as Assistant Professor and about to finsh my Ph.D. in International Economics and Business from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
 - 🌱 I’m currently learning Data Science, Python, AI/ML, DL
 - 👯 I’m looking to collaborate on any interdisciplinary research work in Social sciences and AI
 - 📫 How to reach me: mksharma@iitkgp.ac.in
