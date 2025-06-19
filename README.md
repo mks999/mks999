@@ -8,9 +8,11 @@
 ### I have Technical Experience and Interest in -
 - Data Science 
 - Python 
-- Natural Language processing
+- Natural Language Processing
 - AI and Machine Learning
 - Deep Learning
+- International Economics and Busienss
+- Finance
 
 
 <!--
