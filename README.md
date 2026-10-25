@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### I have Technical Experience and Interest in -
+### I have Technical expertise and Interests in -
 
 - Artificial Intelligence and Machine Learning
 - Deep Learning
