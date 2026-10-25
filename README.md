@@ -1,10 +1,9 @@
-### Hi there👋 
-### Welcome to my Page, Nice to see you.
-<h1 align="center">I am Manish</h1>
+### Hey Yo👋 
+<h1 align="center">I am Dr. Manish</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+### Welcome to my Page, Nice to see you.
 ### I have Technical Experience and Interest in -
 - Data Science 
 - Python 
@@ -12,7 +11,10 @@
 - AI and Machine Learning
 - Deep Learning
 - International Economics and Business
-- Finance
+- FinTech
+- Digital Economy
+- Economics of AI, Technology, Information and Innovation
+- Research and Data analysis
 
 
 <!--
