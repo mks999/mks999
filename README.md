@@ -1,9 +1,10 @@
 ### Hey Yo👋 
+### Welcome to my Page, Nice to see you.
 <h1 align="center">I am Dr. Manish</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### Welcome to my Page, Nice to see you.
+
 ### I have Technical Experience and Interest in -
 - Data Science 
 - Python 
