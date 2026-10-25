@@ -13,6 +13,7 @@
 - Python 
 - Natural Language Processing
 - International Economics and Business
+- Econometrics 
 - FinTech
 - Digital Economy
 - Economics of AI, Technology, Information and Innovation
