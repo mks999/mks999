@@ -6,11 +6,12 @@
 </div>
 
 ### I have Technical Experience and Interest in -
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning
 - Data Science 
 - Python 
 - Natural Language Processing
-- AI and Machine Learning
-- Deep Learning
 - International Economics and Business
 - FinTech
 - Digital Economy
@@ -53,10 +54,10 @@
 
 Here is something to know about me:
 
-- 🔭 Currently working as Assistant Professor and about to finish my Ph.D. in International Economics/Business from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
-- 🌱 I’m currently learning Data Science, Python, AI/ML, DL
-- 👯 I’m looking to collaborate on any interdisciplinary research work in AI and Economics, Finance
-- 📫 How to reach me: mksharma@iitkgp.ac.in
+- 🔭 Currently working as Assistant Professor and finished my Ph.D. in International Economics/Business from IIT Kharagpur, MBA (Gold Medalist), B.Tech. ECE
+- 🌱 I’m currently exploring and building projects using AI/ML, DL, Data Science, Python
+- 👯 I’m looking to collaborate on any interdisciplinary research work in AI and Economics, FinTech, Digital Economy, International Economics/Trade
+- 📫 How to reach me: mksharma@iitkgp.ac.in/dr.mksharma17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love astrology
 
